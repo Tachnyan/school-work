@@ -1,0 +1,9 @@
+=================================================
+AUTHOR: Tachnyan
+CLASS: CSC 475 ARTIFICIAL INTELLIGENCE
+
+MNISTNeuralNet - A 3 LAYER NUERAL NET DESIGNED
+TO RECOGNIZE HAND WRITTEN NUMBERS FROM THE MNIST
+DATA SET.
+
+Usage: java MNISTNeuralNet.java
